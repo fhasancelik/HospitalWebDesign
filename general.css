@@ -1,0 +1,40 @@
+:root{
+
+    --green:green;
+    --black:black;
+    --light-color:#777;
+    --white:white;
+    --menu-btn-color:#eee;
+        --box-shadow:.5rem .5rem 0 rgba(22,160,133,.2);
+    --header-box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
+    --text-shadow:.4rem .4rem 0 rgba(0,0,0,.2);
+    --border:.2rem solid var(--green);
+}
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: all .2s;
+    text-decoration: none;
+
+}
+
+
+
+html{
+    font-size: 65%;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+}
+
