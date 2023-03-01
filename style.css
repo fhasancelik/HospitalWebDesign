@@ -347,3 +347,13 @@ flex: 1 1 45rem;
     padding: 2rem;
  }
 
+ form h3{
+    color:var(--black);
+    font-size:3rem;
+ }
+
+ form .box{
+    width: 100%;
+    margin: .7rem 0;
+ }
+
